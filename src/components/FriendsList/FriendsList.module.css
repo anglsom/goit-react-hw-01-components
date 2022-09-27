@@ -1,0 +1,40 @@
+.friendList {
+    display: inline-block;
+    margin: 30px auto;
+    padding: 15px;
+    max-width: 400px;
+    background-color: pink;
+    color: black;
+}
+
+.status {
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.statusTrue {
+    background-color: green;
+}
+
+.statusFalse {
+    background-color: red;
+}
+
+.friendsItem {
+    display: block;
+    padding: auto;
+}
+
+.avatar {
+    display: block;
+    margin: 20px;
+    justify-content: center;
+}
+
+.name {
+   display: block;
+    font-weight: 600;
+    text-align: center;
+}
